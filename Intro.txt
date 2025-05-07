@@ -1,1 +1,1 @@
-Git and Gihub integration for version control and track commit changes.Git is local software whereas github is a service hosted in cloud.
+Git and Gihub integration for version control and track commit changes.Git is local software whereas github is a service hosted in cloud.There are various commands in gi like add, commit, pull,push.
